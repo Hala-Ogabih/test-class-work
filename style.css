@@ -5,3 +5,8 @@
     padding: 30px;
     margin: auto;
 }
+
+.image {
+    width: 100vw;
+    height: auto;
+}
